@@ -2,7 +2,10 @@ package org.iesvdm;
 
 import java.util.*;
 
-
+/**
+ * prueba de commit
+ *
+ */
 public class EjercicioB {
     /*    Ejercicio B. Repaso Condicional
     Escribe un programa que calcule el precio final de un producto según su  base imponible (precio antes de impuestos),
